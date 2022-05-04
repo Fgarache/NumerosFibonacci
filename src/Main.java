@@ -4,7 +4,7 @@ public class Main {
         for (int i = 1; i < 5; i++) {
             System.out.println(""+main.num(i));
         }
-        System.out.printf("recursividad"+ main.fibonacci(2));
+        System.out.printf(" "+ main.num(12));
 
     }
     public int num (int num1) {
